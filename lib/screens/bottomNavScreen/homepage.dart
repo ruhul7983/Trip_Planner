@@ -17,7 +17,7 @@ class HomePage extends StatefulWidget {
   @override
   State<HomePage> createState() => _HomePageState();
 }
-
+//command line
 class _HomePageState extends State<HomePage> {
   List<int> list = [1, 2, 3, 4, 5];
   List<PostModel> list1 = [];
